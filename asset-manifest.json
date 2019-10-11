@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/warrenday/monzo-crunch-editor/static/js/main.c9cf697c.chunk.js",
+    "main.js.map": "/warrenday/monzo-crunch-editor/static/js/main.c9cf697c.chunk.js.map",
+    "runtime-main.js": "/warrenday/monzo-crunch-editor/static/js/runtime-main.8fb38f16.js",
+    "runtime-main.js.map": "/warrenday/monzo-crunch-editor/static/js/runtime-main.8fb38f16.js.map",
+    "static/css/2.802837ff.chunk.css": "/warrenday/monzo-crunch-editor/static/css/2.802837ff.chunk.css",
+    "static/js/2.6a454860.chunk.js": "/warrenday/monzo-crunch-editor/static/js/2.6a454860.chunk.js",
+    "static/js/2.6a454860.chunk.js.map": "/warrenday/monzo-crunch-editor/static/js/2.6a454860.chunk.js.map",
+    "index.html": "/warrenday/monzo-crunch-editor/index.html",
+    "precache-manifest.282cb79d00f771a19d318705afc1898a.js": "/warrenday/monzo-crunch-editor/precache-manifest.282cb79d00f771a19d318705afc1898a.js",
+    "service-worker.js": "/warrenday/monzo-crunch-editor/service-worker.js",
+    "static/css/2.802837ff.chunk.css.map": "/warrenday/monzo-crunch-editor/static/css/2.802837ff.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fb38f16.js",
+    "static/css/2.802837ff.chunk.css",
+    "static/js/2.6a454860.chunk.js",
+    "static/js/main.c9cf697c.chunk.js"
+  ]
+}
