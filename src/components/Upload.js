@@ -4,7 +4,7 @@ import Papa from 'papaparse';
 
 const processFile = (file, cb) => e => {
   const body = e.target.result;
-  const { data, errors } = Papa.parse(body, { header: true });
+  const { data, errors } = Papa.parse(body, { header: true, skipEmptyLines: true });
   if (errors.length) {
     message.error('There are errors with this CSV, see console.');
     console.log(errors);
