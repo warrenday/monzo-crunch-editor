@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/monzo-crunch-editor/static/js/main.f4eb74f7.chunk.js",
-    "main.js.map": "/monzo-crunch-editor/static/js/main.f4eb74f7.chunk.js.map",
+    "main.js": "/monzo-crunch-editor/static/js/main.a8744f24.chunk.js",
+    "main.js.map": "/monzo-crunch-editor/static/js/main.a8744f24.chunk.js.map",
     "runtime-main.js": "/monzo-crunch-editor/static/js/runtime-main.ca5eb835.js",
     "runtime-main.js.map": "/monzo-crunch-editor/static/js/runtime-main.ca5eb835.js.map",
     "static/css/2.802837ff.chunk.css": "/monzo-crunch-editor/static/css/2.802837ff.chunk.css",
     "static/js/2.e3d7eebc.chunk.js": "/monzo-crunch-editor/static/js/2.e3d7eebc.chunk.js",
     "static/js/2.e3d7eebc.chunk.js.map": "/monzo-crunch-editor/static/js/2.e3d7eebc.chunk.js.map",
     "index.html": "/monzo-crunch-editor/index.html",
-    "precache-manifest.339d4f44054691715500d0fd36b9ddf7.js": "/monzo-crunch-editor/precache-manifest.339d4f44054691715500d0fd36b9ddf7.js",
+    "precache-manifest.ca0c9d18bb53bbf60f10ab1a99608a59.js": "/monzo-crunch-editor/precache-manifest.ca0c9d18bb53bbf60f10ab1a99608a59.js",
     "service-worker.js": "/monzo-crunch-editor/service-worker.js",
     "static/css/2.802837ff.chunk.css.map": "/monzo-crunch-editor/static/css/2.802837ff.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.ca5eb835.js",
     "static/css/2.802837ff.chunk.css",
     "static/js/2.e3d7eebc.chunk.js",
-    "static/js/main.f4eb74f7.chunk.js"
+    "static/js/main.a8744f24.chunk.js"
   ]
 }

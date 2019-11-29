@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/monzo-crunch-editor/precache-manifest.339d4f44054691715500d0fd36b9ddf7.js"
+  "/monzo-crunch-editor/precache-manifest.ca0c9d18bb53bbf60f10ab1a99608a59.js"
 );
 
 self.addEventListener('message', (event) => {
