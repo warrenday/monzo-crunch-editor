@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a864e0f2aac52f02fd0ee3076301e6b",
+    "revision": "1a963403534c96d28025bd018c8646bf",
     "url": "/monzo-crunch-editor/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monzo-crunch-editor/static/js/2.e3d7eebc.chunk.js"
   },
   {
-    "revision": "863f83c8fdfb626d6c31",
-    "url": "/monzo-crunch-editor/static/js/main.f4876d5d.chunk.js"
+    "revision": "f782bb1de33632e1e2e3",
+    "url": "/monzo-crunch-editor/static/js/main.f4eb74f7.chunk.js"
   },
   {
     "revision": "f341de17b497dc8cc993",
