@@ -52,9 +52,9 @@ function App() {
         selectedMonth === getMonth(new Date(row.created))
       );
     })
-    .map((row, i) => ({
+    .map((row, i, filteredData) => ({
       ...row,
-      balance: getRunningTotal(statementData, i) + startingBalance,
+      balance: getRunningTotal(filteredData, i) + startingBalance,
     }));
 
   // Handlers
