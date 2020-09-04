@@ -6,7 +6,7 @@
   "dependencies": {
     "antd": "^3.23.6",
     "date-fns": "^2.4.1",
-    "papaparse": "^5.1.0",
+    "papaparse": "^5.2.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-router": "^5.1.2",
